@@ -1,0 +1,23 @@
+{
+	"name": "com.tencent.xlua",
+	"version": "2.1.14",
+	"unity": "2018.3",
+	"displayName": "xLua",
+	"description": "xLua is a lua programming solution for C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.",
+	"category": "Unity",
+	"keywords": [ "Unity", "Lua"],
+	"dependencies": {
+	},
+	"samples": [
+		{
+			"displayName": "Example",
+			"description": "for example.",
+			"path": "XLua/Example"
+		},
+		{
+			"displayName": "Tutorial",
+			"description": "for tutorial.",
+			"path": "XLua/Tutorial"
+		}
+	]
+}
